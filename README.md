@@ -1,2 +1,0 @@
-# autohomecontrol
-Automação Residencial
